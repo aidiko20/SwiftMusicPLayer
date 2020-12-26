@@ -14,7 +14,6 @@
 		C7D36911259457A0000F7DC8 /* MusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D36910259457A0000F7DC8 /* MusicPlayerUITests.swift */; };
 		C7D3692225945C9E000F7DC8 /* AlbumCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D3692125945C9E000F7DC8 /* AlbumCard.swift */; };
 		C7D3692725945F87000F7DC8 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D3692625945F87000F7DC8 /* Album.swift */; };
-		C7D3693D25946664000F7DC8 /* MusicPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D3693C25946664000F7DC8 /* MusicPlayerApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		C7D36912259457A0000F7DC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7D3692125945C9E000F7DC8 /* AlbumCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AlbumCard.swift; path = MusicPlayer/AlbumCard.swift; sourceTree = SOURCE_ROOT; };
 		C7D3692625945F87000F7DC8 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
-		C7D3693C25946664000F7DC8 /* MusicPlayerApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MusicPlayerApp.swift; path = ../../../../.Trash/MusicPlayerApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +97,6 @@
 		C7D368F22594579D000F7DC8 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				C7D3693C25946664000F7DC8 /* MusicPlayerApp.swift */,
 				C7D368F52594579D000F7DC8 /* ContentView.swift */,
 				C7D368F72594579F000F7DC8 /* Assets.xcassets */,
 				C7D368FC2594579F000F7DC8 /* Info.plist */,
@@ -267,7 +264,6 @@
 			files = (
 				C7D368F62594579D000F7DC8 /* ContentView.swift in Sources */,
 				C7D3692225945C9E000F7DC8 /* AlbumCard.swift in Sources */,
-				C7D3693D25946664000F7DC8 /* MusicPlayerApp.swift in Sources */,
 				C7D3692725945F87000F7DC8 /* Album.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
